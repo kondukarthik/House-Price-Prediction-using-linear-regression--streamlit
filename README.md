@@ -40,9 +40,3 @@ The model is trained on the [Kaggle House Prices Dataset](https://www.kaggle.com
 * Uses `ColumnTransformer` with **OneHotEncoder**, **StandardScaler**, and **SimpleImputer**
 * Saves trained pipeline with **Joblib**
 * Deployable Streamlit app with a clean UI
-
-✅ Just copy this into a file named **`README.md`** in your repo.  
-GitHub will automatically render it beautifully on your repo homepage.  
-
-👉 Do you also want me to generate the **`requirements.txt`** so you can upload both together?
-```
